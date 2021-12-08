@@ -1,3 +1,5 @@
 # testrepo
 Coursera practice creating a new repository
-##editing the file
+## Editing the file
+
+Its a markdown file in this repository
